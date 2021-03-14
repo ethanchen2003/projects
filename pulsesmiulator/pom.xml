@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ethan.schoolprojects</groupId>
-	<artifactId>PlusSimulator</artifactId>
+	<artifactId>PulseSimulator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>PlusSiiulator</name>
+	<name>PulseSiiulator</name>
 	<url>http://schoolprojects.ethan.org</url>
 
 	<properties>

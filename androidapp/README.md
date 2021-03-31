@@ -1,2 +1,2 @@
 # projects
- Plus Simulator project is used to simulator hockey player's plus data
+This Pulse Simulator project is used to emulate the pulse of a hockey player.
